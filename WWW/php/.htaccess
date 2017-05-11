@@ -1,9 +1,7 @@
 ﻿Deny from all
 Allow from 87.224.216.163
+Allow from 127.0.0.1
+Allow from localhost
 Options All -Indexes
-
-
-
-
 #403  Доступ запрещен
 ErrorDocument 403 http://vk.com
