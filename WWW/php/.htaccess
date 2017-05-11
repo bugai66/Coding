@@ -4,4 +4,4 @@ Allow from 127.0.0.1
 Allow from localhost
 Options All -Indexes
 #403  Доступ запрещен
-ErrorDocument 403 http://vk.com
+ErrorDocument 403 http://vizgames.ru
